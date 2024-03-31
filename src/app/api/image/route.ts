@@ -4,7 +4,7 @@ import { HfInference } from '@huggingface/inference'
 import fs, { writeFile, readFile } from "fs/promises";
 import path from "path"; 
 
-const KEY = `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`;
+const KEY = ``;
 
 const hf = new HfInference(KEY);
 
